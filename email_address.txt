@@ -1,0 +1,1 @@
+put ur email and password here from which the email is to be send
